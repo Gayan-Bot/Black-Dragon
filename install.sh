@@ -24,7 +24,7 @@ echo "\033[34;1m                   dMc              O:OO "
 echo "\033[34;1m                  0M.                 :o. "   
 echo "\033[34;1m                    .Wd  "                         
 echo "\033[34;1m                     .XO," ==Black Dragon====
-echo "\033[34;1m                       ,d0Odlc.,.." By Sad-Boy 1922
+echo "\033[34;1m                       ,d0Odlc.,.." By Bad-Boy 1922
 echo "\033[34;1m                          ..',:cdOOd::,."
 echo "\033[34;1m                                    .:d;.':."
 echo "\033[34;1m                                       'd,  .'"
@@ -58,11 +58,11 @@ echo "\033[31;1m   /\/\/\/\/\/\ /         \ "
 echo "\033[31;1m  \_______________      /" 
 echo "\033[34;1m   Black Dragon   \    / "
 echo "\033[34;1m   The Ultimate Shadow System "
-echo "\033[34;1m   Powered By Sad Boy 1922 "
+echo "\033[34;1m   Powered By Bad Boy 1922 "
 sleep 1
 echo "\033[31;1m____________________________________________ "
 echo "\033[32;1m||Tools : Black Dragon                       ||" 
-echo "\033[32;1m||Creator : Sad-Boy 1922                     ||"
+echo "\033[32;1m||Creator : Bad-Boy 1922                     ||"
 echo "\033[32;1m||Team : Black Coder Crush and Silent Ghost  || "
 echo "\033[32;1m||Version : 2.0                     || "
 echo "\033[31;1m||___________________________________________|| "
@@ -75,7 +75,7 @@ echo "\033[33;1m|| [3].Ddos Tools                            ||"
 echo "\033[33;1m|| [4].Install More Tools                    ||"
 echo "\033[31;1m->Press 0 To Exit                            ||"
 echo "\033[32;1m||___________________________________________||"
-read -p "root@Sad Boy 1922]~>" sad
+read -p "root@Bad Boy 1922]~>" sad
 
 if [ $sad = 1 ] || [ $sad = 1 ]
 then
@@ -130,7 +130,7 @@ echo "\033[34;1m                   dMc              O:OO "
 echo "\033[34;1m                  0M.                 :o. "   
 echo "\033[34;1m                    .Wd  "                         
 echo "\033[34;1m                     .XO," ==Black Dragon====
-echo "\033[34;1m                       ,d0Odlc.,.." ====By Sad-Boy 1922===
+echo "\033[34;1m                       ,d0Odlc.,.." ====By Bad-Boy 1922===
 echo "\033[34;1m                          ..',:cdOOd::,."
 echo "\033[34;1m                                    .:d;.':."
 echo "\033[34;1m                                       'd,  .'"
@@ -145,7 +145,7 @@ toilet -f slant -F gay "Black Dragon" | lolcat
 echo "\033[31;1m+÷÷÷÷[]===============> "
 echo "\033[33;1-Thanks Cause Use Black Dragon Tools"
 sleep 1
-echo "\033[33;1-Please Subscribe Channel Youtube Sad Boy 1922"
+echo "\033[33;1-Please Subscribe Channel Youtube Bad Boy 1922"
 sleep 1
 echo "\033[31;1mExit........"
 sleep 1
